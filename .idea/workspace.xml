@@ -57,11 +57,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CyclicRotationSolution.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CyclicRotationSolution.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/codility/CyclicRotationSolution.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="28" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrogJumpSpec.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/codility/FrogJumpSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrogJumpSolution.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/codility/FrogJumpSolution.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,6 +137,9 @@
         <option value="$PROJECT_DIR$/src/test/scala/codility/CyclicRotationSolution.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/codility/CyclicRotationSolution.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/codility/CyclicRotationSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/codility/FrogJumpSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/codility/FrogJumpSolution.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/codility/FrogJumpSolution.scala" />
       </list>
     </option>
   </component>
@@ -330,7 +353,7 @@
       <recent name="codility" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.CyclicRotationSpec.Solution should get the maximum binary gap">
+  <component name="RunManager" selected="ScalaTest.FrogJumpSpec.Solution should get the maximum binary gap">
     <configuration default="false" name="BinaryGapSpec.Solution should get the maximum binary gap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="coding" />
@@ -365,6 +388,21 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="coding" />
       <setting name="path" value="codility.CyclicRotationSpec" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="Solution should get the maximum binary gap" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FrogJumpSpec.Solution should get the maximum binary gap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="coding" />
+      <setting name="path" value="codility.FrogJumpSpec" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
@@ -668,16 +706,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="ScalaTest.BinaryGapSpec.Solution should get the maximum binary gap" />
       <item index="1" class="java.lang.String" itemvalue="ScalaTest.UnpairedNumberSpec" />
       <item index="2" class="java.lang.String" itemvalue="ScalaTest.CyclicRotationSpec.Solution should get the maximum binary gap" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.FrogJumpSpec.Solution should get the maximum binary gap" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.CyclicRotationSpec.Solution should get the maximum binary gap" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.UnpairedNumberSpec" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.BinaryGapSpec.Solution should get the maximum binary gap" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.FrogJumpSpec.Solution should get the maximum binary gap" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.CyclicRotationSpec.Solution should get the maximum binary gap" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.UnpairedNumberSpec" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.BinaryGapSpec.Solution should get the maximum binary gap" />
       </list>
     </recent_temporary>
   </component>
@@ -742,17 +782,17 @@
     <history-entry file="CyclicRotationSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 14h 23m 13s.xml">
       <configuration name="CyclicRotationSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 01m 42s.xml">
-      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="FrogJumpSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 14h 29m 21s.xml">
+      <configuration name="FrogJumpSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 02m 32s.xml">
-      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="FrogJumpSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 14h 31m 59s.xml">
+      <configuration name="FrogJumpSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 14m 47s.xml">
-      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="FrogJumpSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 14h 32m 46s.xml">
+      <configuration name="FrogJumpSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 16m 12s.xml">
-      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="FrogJumpSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 14h 32m 59s.xml">
+      <configuration name="FrogJumpSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
     <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 16m 51s.xml">
       <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
@@ -781,11 +821,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -796,7 +837,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -907,6 +947,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="28" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/codility/FrogJumpSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/codility/FrogJumpSolution.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
