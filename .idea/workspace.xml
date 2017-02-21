@@ -47,23 +47,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryGapSpec.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/codility/BinaryGapSpec.scala">
+      <file leaf-file-name="CyclicRotationSpec.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/codility/CyclicRotationSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#18#40#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryGapSolution.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/codility/BinaryGapSolution.scala">
+      <file leaf-file-name="CyclicRotationSolution.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/codility/CyclicRotationSolution.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IterableLike.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/IterableLike.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="124" column="35" selection-start-line="124" selection-start-column="35" selection-end-line="124" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -81,6 +89,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -96,6 +111,12 @@
         <option value="$PROJECT_DIR$/project/plugins.sbt" />
         <option value="$PROJECT_DIR$/src/test/scala/codility/BinaryGapSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/codility/BinaryGapSolution.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/codility/UnpairedNumberSolution.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/codility/UnpairedNumberSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/codility/UnpairedNumberSolution.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/codility/CyclicRotationSolution.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/codility/CyclicRotationSolution.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/codility/CyclicRotationSpec.scala" />
       </list>
     </option>
   </component>
@@ -207,6 +228,84 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -223,11 +322,49 @@
     <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="ScalaTest.BinaryGapSpec.Solution should get the maximum binary gap">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="codility" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="codility" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.CyclicRotationSpec.Solution should get the maximum binary gap">
     <configuration default="false" name="BinaryGapSpec.Solution should get the maximum binary gap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="coding" />
       <setting name="path" value="codility.BinaryGapSpec" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="Solution should get the maximum binary gap" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UnpairedNumberSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="coding" />
+      <setting name="path" value="codility.UnpairedNumberSpec" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CyclicRotationSpec.Solution should get the maximum binary gap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="coding" />
+      <setting name="path" value="codility.CyclicRotationSpec" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
@@ -531,12 +668,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="ScalaTest.BinaryGapSpec.Solution should get the maximum binary gap" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.UnpairedNumberSpec" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.CyclicRotationSpec.Solution should get the maximum binary gap" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.BinaryGapSpec.Solution should get the maximum binary gap" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.CyclicRotationSpec.Solution should get the maximum binary gap" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.UnpairedNumberSpec" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.BinaryGapSpec.Solution should get the maximum binary gap" />
       </list>
     </recent_temporary>
   </component>
@@ -595,35 +736,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 26m 20s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="CyclicRotationSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 14h 22m 22s.xml">
+      <configuration name="CyclicRotationSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 26m 46s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="CyclicRotationSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 14h 23m 13s.xml">
+      <configuration name="CyclicRotationSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 28m 44s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 01m 42s.xml">
+      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 30m 16s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 02m 32s.xml">
+      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 33m 19s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 14m 47s.xml">
+      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 34m 50s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 16m 12s.xml">
+      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 35m 22s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 16m 51s.xml">
+      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 40m 37s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 17m 09s.xml">
+      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 41m 57s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 18m 09s.xml">
+      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BinaryGapSpec_Solution_should_get_the_maximum_binary_gap - 2017.02.21 at 13h 42m 42s.xml">
-      <configuration name="BinaryGapSpec.Solution should get the maximum binary gap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="UnpairedNumberSpec - 2017.02.21 at 14h 20m 19s.xml">
+      <configuration name="UnpairedNumberSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -696,18 +837,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/codility/BinaryGapSolution.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -722,10 +863,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/codility/BinaryGapSolution.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/codility/UnpairedNumberSolution.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/IterableLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="124" column="35" selection-start-line="124" selection-start-column="35" selection-end-line="124" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/codility/UnpairedNumberSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/codility/CyclicRotationSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/codility/CyclicRotationSolution.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
