@@ -1,0 +1,20 @@
+#Successful Tests
+#Tue Feb 21 12:33:10 EST 2017
+strings.SherlockAnagramSpec=1487698388851
+sorting.QuickSort1Spec=1487698388700
+strings.GemeStoneSpec=1487698388720
+strings.FunnyWordSpec=1487698388688
+strings.PangramSpec=1487698388686
+sorting.InsertionSort2Spec=1487698388674
+sorting.MatrixRotationSpec=1487698388614
+search.MissingNumberSpec=1487698388662
+sorting.QuickSortInPlaceSpec=1487698388722
+search.SherlockArrraySpec=1487698388712
+strings.SteadyGeneSpec=1487698390280
+sorting.InsertionSort1Spec=1487698388804
+sorting.QuickSort2Spec=1487698388694
+strings.PalindromeLetterSpec=1487698388614
+search.ConnectedCellSpec=1487698388758
+strings.AlternatingCharactersSpec=1487698388673
+strings.AnagramPalindromeSpec=1487698388737
+strings.AnagramWordSpec=1487698388614
