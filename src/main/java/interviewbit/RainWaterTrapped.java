@@ -38,7 +38,7 @@ public class RainWaterTrapped {
                         levelled += 1;
                         notFilled = !waterStack.empty();
                     } else {
-                        //fill the water back
+                        //fill the levels back
                         waterStack.add(fillingLevel);
                         for (int i = 0; i <= levelled; i++) {
                             waterStack.add(waterLevel);
