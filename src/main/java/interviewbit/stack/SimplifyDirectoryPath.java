@@ -1,4 +1,4 @@
-package interviewbit;
+package interviewbit.stack;
 
 import java.util.Stack;
 

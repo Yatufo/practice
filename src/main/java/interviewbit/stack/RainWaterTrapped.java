@@ -1,9 +1,8 @@
-package interviewbit;
-
-import org.scalactic.Bool;
+package interviewbit.stack;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.PriorityQueue;
 import java.util.Stack;
 
 public class RainWaterTrapped {
@@ -65,3 +64,5 @@ public class RainWaterTrapped {
     }
 
 }
+
+

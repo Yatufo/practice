@@ -1,4 +1,4 @@
-package interviewbit;
+package interviewbit.arrays;
 
 public class PrintMatrix {
 
