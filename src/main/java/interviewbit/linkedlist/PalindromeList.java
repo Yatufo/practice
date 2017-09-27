@@ -3,12 +3,6 @@ package interviewbit.linkedlist;
 import java.util.Arrays;
 import java.util.List;
 
-class ListNode {
-    public int val;
-    public ListNode next;
-    ListNode(int x, ListNode next) { val = x; this.next = next; }
-}
-
 
 public class PalindromeList {
 
