@@ -2,7 +2,7 @@ package interviewbit.linkedlist;
 
 import java.util.List;
 
-class ListNode {
+public class ListNode {
     public int val;
     public ListNode next;
     ListNode(int x) { val = x; this.next = null; }
@@ -15,7 +15,7 @@ class ListNode {
         }
         return head.next;
     }
-    void print(){
+    public void print(){
         ListNode next = this;
         Integer count = 0;
         while (next != null || count > 100){
