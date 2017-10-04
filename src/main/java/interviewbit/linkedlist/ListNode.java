@@ -5,7 +5,7 @@ import java.util.List;
 public class ListNode {
     public int val;
     public ListNode next;
-    ListNode(int x) { val = x; this.next = null; }
+    public ListNode(int x) { val = x; this.next = null; }
     ListNode(int x, ListNode next) { val = x; this.next = next; }
     public static ListNode create(List<Integer> elements) {
         ListNode head = new ListNode(0), previous = head;
